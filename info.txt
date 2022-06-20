@@ -1,1 +1,1 @@
-jhole_keta_contract_address = 0x8a6a387b9376Ad62318B539197a43FE3c2e2aFd2
+jhole_keta_contract_address = 0x8396735ae285B943d830b52626fFBd501e0A2D6A
